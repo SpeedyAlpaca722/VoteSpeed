@@ -1,5 +1,3 @@
-# VoteSpeed v1.0.0 — Initial Release
-
 The all-in-one vote management plugin for Minecraft servers.
 
 ## Features
