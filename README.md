@@ -3,7 +3,7 @@
     <img src="assets/banner/banner_01_header_click_repo.png" width="2000" style="display:block;" alt="VoteSpeed Header">
   </a>
   <img src="assets/banner/banner_02_mid_features.png" width="2000" style="display:block;" alt="VoteSpeed Features">
-  <a href="">
+  <a href="https://speedyalpaca722.github.io/votespeed-docs/#/">
     <img src="assets/banner/banner_03_requires_click_repo.png" width="2000" style="display:block;" alt="VoteSpeed Requires">
   </a>
   <img src="assets/banner/banner_04_mid_buttons.png" width="2000" style="display:block;" alt="VoteSpeed Options">
