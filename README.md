@@ -1,9 +1,9 @@
 <div align="center" style="line-height:0;">
-  <a href="https://github.com/SpeedyAlpaca722/VoteSpeed/tree/main">
+  <a href="https://github.com/SpeedyAlpaca722/VoteSpeed/releases/tag/v1.0.0">
     <img src="assets/banner/banner_01_header_click_repo.png" width="2000" style="display:block;" alt="VoteSpeed Header">
   </a>
   <img src="assets/banner/banner_02_mid_features.png" width="2000" style="display:block;" alt="VoteSpeed Features">
-  <a href="https://github.com/SpeedyAlpaca722/VoteSpeed/tree/main">
+  <a href="">
     <img src="assets/banner/banner_03_requires_click_repo.png" width="2000" style="display:block;" alt="VoteSpeed Requires">
   </a>
   <img src="assets/banner/banner_04_mid_buttons.png" width="2000" style="display:block;" alt="VoteSpeed Options">
